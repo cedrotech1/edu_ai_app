@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "QuizMind Student",
+    "slug": "edu-ai-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0F0E47"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.quizmind.student"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0F0E47"
+      },
+      "package": "com.quizmind.student"
+    }
+  }
+}
